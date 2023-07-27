@@ -1,0 +1,10 @@
+My experience in learning Scilab:
+
+Starting with the what the software is, Scilab is a model based designing software used for building systems with a numerical approach.One can plot graphs, get central tendencies from the data gathered, apply algorithms to get patterns and analyse data in an efficient way. I majorly used a particular toolkit in Scilab which is Xcos. Using this, I was able to model three projects which were NiMH battery, Thermal Model of a house, and spring mass damper model. 
+
+Scilab interface has many cool things, the major elements visible in the GUI are Scilab console,File browser, Varibale browser(for storing all kinds of variables to plot graphs, or to use it for calculations),Command history, and a News feed at the bottom.
+All these features make it very interactive and easy to use. The syntax is quite easy and I learnt commands like launching Xcos, reading a spreadsheet file and assigning varibales respectively. Plotting 2D and 3D graphs gave me a better idea on how performance of a mechanical system matters and how it can be analysed.
+
+In Xcos, there are many components available to build a model, and they are called blocks. Different kinds of blocks have different functions and are available in the palette browser. In simple words, Xcos is like a bread board and blocks are like electronic components fitted onto the bread board. Every model can give mean value,max and min values, logic position of output switch as resultant of running Xcos after building a model.
+
+Lastly, I would say that Scilab is a very good software for people who have a  mathematical approach for building their models/projects and scilab is a very good tool for analytics of the model performance. Learning is fun as we have visual outputs and a lot of real life applications of these fetched information from the outcomes of our projects in this software.
